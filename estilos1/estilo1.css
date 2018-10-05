@@ -1,0 +1,44 @@
+.contenido	{
+	font-family: "Arial";
+	font-weight: 100px;
+	width: 300px;
+	margin: auto;
+	background-color: #5F9F9F ;
+	border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	padding: 30px;
+}
+.contenido label	{
+	margin-bottom: 5px;
+	display: block;
+	float: left;
+	clear: both;
+}
+.contenido input[type=text]	{
+	width: 100%;
+	height: 2%;
+	float: left;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.contenido select	{
+	width: 100%;
+	height: 2%;
+	float: left;
+	clear: both;
+	margin-bottom: 20px;
+}
+.contenido input[type=submit]	{
+	height: 2em;
+	float: left;
+	clear: both;
+	margin-left: 120px;
+}
+.contenido	.clear-float	{
+	clear:both;
+}
+.contenido hr	{
+	margin-bottom: 30px;
+}

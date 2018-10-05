@@ -1,0 +1,132 @@
+.contenido	{
+	font-family: "Arial";
+	font-weight: 100px;
+	width: 250px;
+	height: 500px;
+	margin: auto;
+	background-color:#0174DF ;
+	border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	padding: 30px;
+}
+
+.contenidoImpJR	{
+	font-family: "Arial";
+	font-weight: 100px;
+	width: 250px;
+	height: 500px;
+	margin: auto;
+	background-color:red ;
+	border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	padding: 30px;
+}
+
+.contenidoiImprIndivudual {
+	font-family: "Arial";
+	font-weight: 100px;
+	width: 500px;
+	height: 650px;
+	margin: auto;
+	background-color:#0174DF ;
+	border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	padding: 30px;
+}
+.contBuscar {
+	font-family: "Arial";
+	font-weight: 100px;
+	width: 230px;	/*ancho*/
+	height: 50px;	/*alto*/
+	margin: auto;
+	background-color:#0174DF ;
+	border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	padding: 30px;
+}
+
+
+
+/*.contenidoiImprIndivudual table{
+  text-align:left;
+}
+.contenidoiImprIndivudual table td { 
+	text-align: justify;
+	paddinng: 6px;
+}*/
+.contenidoiImprIndivudual table tr {
+  font-family: arial, monospace;
+  color: black;
+  font-size:12px;
+ 
+}
+
+.contenido label	{
+	margin-bottom: 5px;
+	display: block;
+	float: left;
+	clear: both;
+}
+.contenido input[type=text]	{
+	width: 100%;
+	height: 2%;
+	float: left;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.contenido select	{
+	width: 100%;
+	height: 2%;
+	float: left;
+	clear: both;
+	margin-bottom: 20px;
+}
+.contenido input[type=submit]	{
+	height: 2em;
+	float: left;
+	
+	margin-left: 60px;
+}
+.contenido	.clear-float	{
+	clear:both;
+}
+.contenido hr	{
+	margin-bottom: 30px;
+}
+
+/*ocultar botones al imprimir
+.contenidoiImprIndivudual input {
+visibility:hidden
+}
+.contBuscar input, label {
+visibility:hidden
+}// para ocultar algo de una vez*/
+
+
+
+  
+/*Héctor - Mensaje que sigue al puntero del ratón 
+ 
+Este script y otros muchos pueden 
+descarse on-line de forma gratuita 
+en El Código: www.elcodigo.com 
+*/  
+  
+.animado {  
+position:absolute;  
+visibility:visible;  
+top:-50px;  
+font-size:10pt;  
+font-family:Arial;  
+font-weight:bold;  
+color:Red;  
+}  
+  
+  
+  
+
